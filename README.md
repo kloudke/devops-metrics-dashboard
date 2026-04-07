@@ -1,7 +1,5 @@
 # DevOps Metrics Dashboard
 
-## Overview
-
 A centralized observability platform that collects, aggregates, and visualizes DevOps and infrastructure metrics.
 
 ---
